@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my profile. I'm currently learning how to use Github properly and working on my Python skills.
+
 <!--
 **same-hehir/same-hehir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
